@@ -1,0 +1,12 @@
+{
+  "name": "Tailwind-practice",
+  "version": "1.0.0",
+  "description": "Tailwind CSS is the most popular utility-first framework in the world.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind -i src/style.css -o public/output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
